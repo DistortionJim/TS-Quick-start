@@ -21,10 +21,10 @@ const rect2: Rect = {
     size: {
         width: 10,
         height: 20
-    }
+    },
 }
 
-react2.color = "#f00"
+rect2.color = "#f00"
 
 const rect3 = {} as Rect
 const rect4 = <Rect>{}
